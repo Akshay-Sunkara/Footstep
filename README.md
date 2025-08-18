@@ -4,7 +4,7 @@ Hearing is crucial in games like VALORANT, but players with hearing disabilities
 
 ## Demo
 
-![Video of Demo](https://drive.google.com/file/d/1nURWnMtwN6k-NFOJL6T7L_9Y_TMD1A3y/view?usp=sharing)
+[Video of Demo](https://drive.google.com/file/d/1nURWnMtwN6k-NFOJL6T7L_9Y_TMD1A3y/view?usp=sharing)
 
 ## Features
 
